@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://jacobf-nft-preview-card-solution1.netlify.app/](https://jacobf-nft-preview-card-solution1.netlify.app/)
+- Live Site URL: [https://jacobf-business-card-preview.netlify.app/](https://jacobf-business-card-preview.netlify.app/)
 - Solution submission URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-304FgyA8P_](https://www.frontendmentor.io/solutions/nft-preview-card-component-304FgyA8P_)
 
 ### Screenshot
